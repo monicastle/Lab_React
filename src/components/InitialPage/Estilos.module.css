@@ -1,0 +1,38 @@
+.textField {
+  width: 2.8in;
+  height: 1cm;
+  margin-right: 10px;
+  font-size: large;
+}
+
+.botonJugar{
+  background-color: #50FFB1;
+  width: 1in;
+  height: 1cm;
+  font-size: large;
+  font-weight: bold;
+}
+
+.botonOver{
+  background-color: #50FFB1;
+  width: 1.4in;
+  height: 1cm;
+  font-size: large;
+  font-weight: bold;
+  margin-bottom: 1cm;
+  margin-top: 10px;
+}
+
+.title{
+  text-align: left;
+  margin-bottom: 10px;
+  color: #F6AE2D;
+}
+
+.space{
+  margin-bottom: 30px;
+}
+
+.tabla{
+  width: 8in;
+}

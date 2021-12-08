@@ -1,0 +1,23 @@
+.tablero{
+    outline: 0px solid #7DC95E;
+  }
+  
+  .row{
+    height: 30px;
+  }
+  
+  .cell{
+    width: 30px;
+    height: 30px;
+    outline: 4px solid #C7EBF0;
+    display: inline-block;
+    background-color: #8D8D92;
+  }
+
+  .snakeCell{
+    background-color: #7DC95E;
+  }
+
+  .foodCell{
+    background-color: #F6D0B1;
+  }
